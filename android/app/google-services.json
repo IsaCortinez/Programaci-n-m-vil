@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470605187375",
+    "project_id": "iue-technology-inventory-20a55",
+    "storage_bucket": "iue-technology-inventory-20a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470605187375:android:8efacf6f34b44a6927b9da",
+        "android_client_info": {
+          "package_name": "com.iuetechonlogy.iue_technology_inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF7f41UsJsbLBU0SYPG5QUaxK2gDEE9-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
